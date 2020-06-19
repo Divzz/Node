@@ -1,0 +1,19 @@
+{
+  "name": "http-example",
+  "version": "1.0.0",
+  "description": "Node Http Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7"
+  }
+}
